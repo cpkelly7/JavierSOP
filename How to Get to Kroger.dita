@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_javier_BT">
+    <title>How to take the Blacksburg Transit to the UCB Kroger</title>
+    <shortdesc>Living on campus has its challenges. One of the biggest challenges is not having a car. Luckily, you can ride the Blacksburg Transit all around Blacksburg for free! The Blacksburg Transit can take you to many places, including Kroger, the Math Emporium, and Christiansburg.</shortdesc>
+    <taskbody>
+        <prereq>Your Hokie Passport</prereq>
+        <steps>
+            <step>
+                <cmd>Leave your residence hall and walk to Burruss Hall</cmd>
+            </step>
+            <step>
+                <cmd>Once you have arrived at Burruss Hall, wait at the bus stop for the University Mall Shuttle (UMS) or University City Boulevard (UCB) bus.</cmd>
+                <info>
+                    <note type="tip">The name of the bus route will be projected on the screen of the bus as it approches. Make sure to pay attention to that so you can find the proper bus.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>When the UMS or UCB bus arrives, approach the bus with your Hokie Passport in hand. You may get on the bus once the driver has opened the doors.</cmd>
+                <info>
+                    <note type="remember">You will need to show your Hokie Passport to the bus driver to get on the bus for free. Otherwise, it costs 50 cents.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Make sure you get off at the stop closest to Kroger. To request a stop, pull down on the yellow rope that is hung alongside the windows. </cmd>
+                <choices>
+                    <choice>If you take the UMS bus, it is your best bet to get off at the Math Emporium and walk over to the Kroger. Kroger is to the right of the Emporium once you get off the bus.</choice>
+                    <choice>If you take the UCB bus, you will want to get off at the stop across the street from Kroger. This stop is nearby the restaurant Macados.</choice>
+                </choices>
+            </step>
+            <step>
+                <cmd>When you are finished shopping at Kroger, go outside and walk back to the bus stop that you got off at. The bus should arrive within 5-10 minutes.</cmd>
+                <info>
+                    <note type="remember">Follow step 3 to get on the bus again</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Once you have made it back to campus, walk to back to your residence hall and share your good snacks with your roommates to win brownie points.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

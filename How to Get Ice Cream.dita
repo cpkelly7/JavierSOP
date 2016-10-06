@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_Javier_IC">
+    <title>How to Get a Giant Chocolate Ice Cream Cone</title>
+    <shortdesc>College can be hard sometimes. Treat yourself to an ice cream cone when you're sad. You can also bring a friend or a date to make it more fun!</shortdesc>
+    <taskbody>
+        <prereq>Your Hokie passport</prereq>
+        <steps>
+            <step>
+                <cmd>Leave your residence hall and walk over to Deets Place. Deets Place is located underneath D2 Dining Hall.</cmd>
+                <info>
+                    <note type="tip">If you are having trouble finding Deets or D2, here is a link to a campus map: http://www.maps.vt.edu/PDF/campus-map-highres.pdf</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Once you've arrived at Deets, walk up to the ice cream counter and tell the employee you'd like a double scoop chocolate ice cream cone</cmd>
+                <info>
+                    <note type="tip">The ice cream tastes best in a waffle cone. Plus, the waffle cone is bigger than the cake cone, so you will get more ice cream</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Pay for your giant chocolate ice cream cone with your Hokie passport</cmd>
+            </step>
+            <step>
+                <cmd>Enjoy!</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

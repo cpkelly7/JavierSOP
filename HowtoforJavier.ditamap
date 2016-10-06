@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Helpful "How To's" for Javier</title>
+ <topicref href="JavierConceptFirstYear.dita"/>
+ <topicref href="How%20to%20Get%20to%20Kroger.dita"/>
+ <topicref href="How%20to%20Get%20Ice%20Cream.dita"/>
+ <topicref href="How%20to%20Get%20a%20Package.dita"/>
+</map>

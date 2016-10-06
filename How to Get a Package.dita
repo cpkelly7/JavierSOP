@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Javier_Mail">
+    <title>How to Pick-Up a Package from Mail Services</title>
+    <shortdesc>If you are receiving a package to your residence hall through USPS, it will arrive at Mail Services. Otherwise, if the package is UPS or FedEx, it will arrive at your door instead. </shortdesc>
+    <taskbody>
+        <prereq>Your Hokie passport</prereq>
+        <steps>
+            <step>
+                <cmd>Walk to Mail Services. It is located in Owens Hall. If you are having trouble finding it, here is a link to a campus map: http://www.maps.vt.edu/PDF/campus-map-highres.pdf </cmd>
+            </step>
+            <step>
+                <cmd>Approach the counter at Mail Services. When someone arrives to assist you, hand them your Hokie passport and tell them what residence hall you live in</cmd>
+                <info>
+                    <note othertype="Ex.">When I lived on campus, I would hand the assistant my Hokie passport and say "I live in Johnson Hall"</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Sign your name on the little screen they hand you</cmd>
+            </step>
+            <step>
+                <cmd>Take your package back to your residence hall to see what goodies you got.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
